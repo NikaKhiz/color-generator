@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.598d7b21.css",
-    "main.js": "/react-gh-pages/static/js/main.d64de1c6.js",
-    "index.html": "/react-gh-pages/index.html",
-    "main.598d7b21.css.map": "/react-gh-pages/static/css/main.598d7b21.css.map",
-    "main.d64de1c6.js.map": "/react-gh-pages/static/js/main.d64de1c6.js.map"
+    "main.css": "/color-generator/static/css/main.598d7b21.css",
+    "main.js": "/color-generator/static/js/main.d64de1c6.js",
+    "index.html": "/color-generator/index.html",
+    "main.598d7b21.css.map": "/color-generator/static/css/main.598d7b21.css.map",
+    "main.d64de1c6.js.map": "/color-generator/static/js/main.d64de1c6.js.map"
   },
   "entrypoints": [
     "static/css/main.598d7b21.css",
