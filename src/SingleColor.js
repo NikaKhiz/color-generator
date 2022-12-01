@@ -4,12 +4,14 @@ const SingleColor = ({ index, hex, weight, rgb, num }) => {
   const [alert, setAlert] = useState(false);
   const bcg = rgb.join(',');
   const hexValue = `#${hex}`;
+
   useEffect(() => {
     const timeout = setTimeout(() => {
       setAlert(false);
     }, 3000)
     return () => clearTimeout(timeout);
   }, [alert]);
+
   return (
     <article className={`color ${index > num && 'color-light'}`} style={{
       backgroundColor: `rgb(${bcg})`
